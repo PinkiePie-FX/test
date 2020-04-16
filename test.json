@@ -1,18 +1,10 @@
 {
-   "book": [
-	
-      {
-         "id":"01",
-         "language": "Java",
-         "edition": "third",
-         "author": "Herbert Schildt"
-      },
-	
-      {
-         "id":"07",
-         "language": "C++",
-         "edition": "second",
-         "author": "E.Balagurusamy"
-      }
-   ]
+	"products": [
+		{
+			"id": 1,
+			"quantity": 5,
+			"price": 1000,
+			"name": "compass"
+		}
+	]
 }
